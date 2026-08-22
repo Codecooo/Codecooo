@@ -8,11 +8,12 @@ Main languages:
 * Javascript (soon Typescript too)
 * Dart
 
-Example include:
+Examples include:
 <br>
-[Royong](https://github.com/Royong-Dev/Royong) (crowdfund website project):
-<br>
+* [Royong](https://github.com/Royong-Dev/Royong) (crowdfund website project)
+* [Padma WorkshopDL](https://github.com/Codecooo/Padma-WorkshopDL) (a personal project for fixing my personal problems and for me to learn c#)
 
+<br>
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codecooo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
