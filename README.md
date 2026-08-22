@@ -1,16 +1,21 @@
-## Hi there 👋
+# Anugerah Tallenta Agung
 
-<!--
-**Codecooo/Codecooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm tallenta or codecoo, a student from Indonesia currently learning on programming from web to games.
+<br>
+Main languages:
+* C#
+* PHP
+* Javascript (soon Typescript too)
+* Dart
 
-Here are some ideas to get you started:
+Example include:
+<br>
+[Royong](https://github.com/Royong-Dev/Royong) (crowdfund website project):
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codecooo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codecooo&layout=compact&theme=algolia"/>
+</a>
+</p>
