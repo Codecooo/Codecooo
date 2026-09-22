@@ -15,7 +15,7 @@ Examples include:
 
 <br>
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/Codecooo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codecooo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codecooo&layout=compact&theme=algolia"/>
 </a>
